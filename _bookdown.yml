@@ -1,0 +1,15 @@
+output_dir: docs
+delete_merged_file: true
+new_session: true
+
+language:
+  label:
+    fig: 'Figura '
+    tab: 'Tabela '
+
+ui:
+  chapter_name: 'Capítulo '
+  
+before_chapter_script: "util.R"
+
+book_filename: "borrar_esalq_03_05_2023" 
